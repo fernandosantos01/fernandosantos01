@@ -1,6 +1,6 @@
 ### Olá Eu sou José Fernando 👋
 
-- 🔭 Eu sou Acadêmico na UFPI - Ciências da Computação
+- 🔭 Eu sou Acadêmico na UFPI - Ciência da Computação
 - 🌱 Estou aprendendo Node.Js e PostgreSql
 - 👯 Colaboro com alguns códigos em C
 - 😄 Pronomes: Ele/Dele
