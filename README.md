@@ -2,7 +2,7 @@
 
 - 🔭 Eu sou Acadêmico na UFPI - Ciência da Computação
 - 🌱 Estou aprendendo Node.Js e PostgreSql
-- 👯 Colaboro com alguns códigos em C
+- 👯 Colaboro com alguns códigos de atividades
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
@@ -15,6 +15,9 @@
   <img align="center" alt="Fernando-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fernando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Fernando-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Fernando-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Fernando-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="right" alt="Fernando-pic" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/miles-morales-icegif.gif">
 </div>
   
