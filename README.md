@@ -3,7 +3,7 @@
 
 - 🔭 Sou Acadêmico na UFPI - Ciência da Computação
 - 🧑‍🎓 Técnico em Informática - IFPI
-- 🌱 Estou aprendendo Node.Js e PostgreSql
+- 🌱 Estou Focado em Desenvolvimento Back-End
 - 👯 Colaboro com alguns códigos de atividades
 
 <div align="center">
