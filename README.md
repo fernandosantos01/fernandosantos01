@@ -6,10 +6,10 @@
 - 🌱 Estou Focado em Desenvolvimento Back-End
 - 👯 Colaboro com alguns códigos de atividades
 
-<div align="center">
-  <a href="https://github.com/fernandosantos01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandosantos01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosantos01&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandosantos01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandosantos01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandosantos01&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,3 +37,8 @@
   <a href = "mailto:josefernandojosefernando.09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- Linkedin -->
   </div>
+  ###
+
+<img src="https://raw.githubusercontent.com/fernandosantos01/fernandosantos01/output/snake.svg" alt="Snake animation" />
+
+###
