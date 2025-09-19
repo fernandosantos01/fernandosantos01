@@ -1,7 +1,7 @@
 <!--### Olá Eu sou José Fernando 👋-->
 <h1 align="center">Olá 👋, Eu sou José Fernando</h1>
 
-- 🔭 Sou Acadêmico na UFPI - Ciência da Computação
+- 🔭 Acadêmico de Ciência da Computação - UFPI
 - 🧑‍🎓 Técnico em Informática - IFPI
 - 🌱 Estou Focado em Desenvolvimento Back-End
 - 👯 Colaboro com alguns códigos de atividades
