@@ -6,7 +6,27 @@
 - 🌱 Estou Focado em Desenvolvimento Back-End
 - 👯 Colaboro com alguns códigos de atividades
 
-<h3 align="left">Techs</h3>
+<h3 align="left"> Tecnologia que possuo conhecimento</h3>
+
+<div align="left">
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" alt="C logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" height="40" alt="Python logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="MySQL logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" height="40" alt="PHP logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/git/original.svg"  height="40" alt="Git logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40" alt="Html5 logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40" alt="CSS logo"/>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="JavaScript logo">
+  <img width="12" />
+
+<h3 align="left">Tecnologia Principais</h3>
 
 ###
 
@@ -31,6 +51,9 @@
 </div>
 
 ###
+<h3 align="left">Em Estudo</h3>
+<img src="https://devicon-website.vercel.app/api/angularjs/original.svg"height="40" alt="postgresql logo"/>
+<img width="12" />
 
 <h3 align="left">Stats</h3>
 
